@@ -25,3 +25,6 @@ logo-width: "70mm"
 ## Subtítulo
 
 ### Sección
+
+
+<!-- ::: note, ::: tip, ::: warning, ::: caution, ::: important -->
